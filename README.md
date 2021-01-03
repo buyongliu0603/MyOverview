@@ -8,7 +8,7 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: <a href="https://twitter.com/Lingura2">@Lingura2</a> 
 
 
