@@ -3,9 +3,7 @@
 <a href="https://twitter.com/shinokada">
   <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
 </a>
-<a href="https://medium.com/@shinichiokada">
-  <img align="left" alt="Shinichi Okada | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
-</a>
+
 
 <br />
 <br />
