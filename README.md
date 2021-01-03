@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Shin!
+### Hi there 👋, I'm Bu Yong Liu!
 
-<a href="https://twitter.com/shinokada">
-  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+<a href="https://twitter.com/Lingura2">
+  <img align="left" alt="Bu Yong Liu | Twitter" width="21px" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/twitter.png"/>
 </a>
 
 
@@ -9,7 +9,7 @@
 <br />
 
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada</a> 
+- 📫 How to reach me: <a href="https://twitter.com/Lingura2">@Lingura2</a> 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
