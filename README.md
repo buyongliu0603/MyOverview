@@ -4,7 +4,7 @@
   <img align="left" alt="Bu Yong Liu | Twitter" width="21px" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/twitter.png"/>
 </a>
 <a href="https://www.instagram.com/yongliubu/">
-  <img align="left" alt="Bu Yong Liu | Instragram" width="21px" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/instagram.jpg"/>
+  <img align="left" alt="Bu Yong Liu | Instragram" width="21px" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/instagram.png"/>
 </a>
 
 <br />
