@@ -3,17 +3,22 @@
 <a href="https://twitter.com/Lingura2">
   <img align="left" alt="Bu Yong Liu | Twitter" width="21px" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/twitter.png"/>
 </a>
-
+<a href="https://www.instagram.com/yongliubu/">
+  <img align="left" alt="Bu Yong Liu | Instragram" width="21px" src="https://github.com/buyongliu0603/MyOverview/blob/main/assets/instagram.jpg"/>
+</a>
 
 <br />
 <br />
 
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: <a href="https://twitter.com/Lingura2">@Lingura2</a> 
+- :books: I’m currently learning Java
+- 📫 How to reach me: <a href="https://twitter.com/Lingura2">@Lingura2 
+- 📫 How to reach me: <a href="https://www.instagram.com/yongliubu/">@yongliubu</a> 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=buyongliu0603&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=buyongliu0603&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=buyongliu0603&theme=blue-green&show_icons=true&count_private=true)
+
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=buyongliu0603&theme=blue-green&layout=compact)
 
 
 
